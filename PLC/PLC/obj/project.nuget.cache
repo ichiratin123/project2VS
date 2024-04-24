@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BLzI05MQmdf8WdKI3k4+WFcSNgntNmMIhquPU5A5yWoW5nFnc+QeYqyzlHvZmlmWc0lV+BB9xwGyj1nYWf40pw==",
+  "success": true,
+  "projectFilePath": "E:\\code\\PJP\\project2VS\\PLC\\PLC\\PLC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\antlr4.runtime.standard\\4.13.1\\antlr4.runtime.standard.4.13.1.nupkg.sha512"
+  ],
+  "logs": []
+}

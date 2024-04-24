@@ -1,0 +1,17 @@
+E:\code\PJP\project2VS\PLC\PLC\bin\Debug\net8.0\PLC.exe
+E:\code\PJP\project2VS\PLC\PLC\bin\Debug\net8.0\PLC.deps.json
+E:\code\PJP\project2VS\PLC\PLC\bin\Debug\net8.0\PLC.runtimeconfig.json
+E:\code\PJP\project2VS\PLC\PLC\bin\Debug\net8.0\PLC.dll
+E:\code\PJP\project2VS\PLC\PLC\bin\Debug\net8.0\PLC.pdb
+E:\code\PJP\project2VS\PLC\PLC\bin\Debug\net8.0\Antlr4.Runtime.Standard.dll
+E:\code\PJP\project2VS\PLC\PLC\obj\Debug\net8.0\PLC.csproj.AssemblyReference.cache
+E:\code\PJP\project2VS\PLC\PLC\obj\Debug\net8.0\PLC.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\PJP\project2VS\PLC\PLC\obj\Debug\net8.0\PLC.AssemblyInfoInputs.cache
+E:\code\PJP\project2VS\PLC\PLC\obj\Debug\net8.0\PLC.AssemblyInfo.cs
+E:\code\PJP\project2VS\PLC\PLC\obj\Debug\net8.0\PLC.csproj.CoreCompileInputs.cache
+E:\code\PJP\project2VS\PLC\PLC\obj\Debug\net8.0\PLC.csproj.Up2Date
+E:\code\PJP\project2VS\PLC\PLC\obj\Debug\net8.0\PLC.dll
+E:\code\PJP\project2VS\PLC\PLC\obj\Debug\net8.0\refint\PLC.dll
+E:\code\PJP\project2VS\PLC\PLC\obj\Debug\net8.0\PLC.pdb
+E:\code\PJP\project2VS\PLC\PLC\obj\Debug\net8.0\PLC.genruntimeconfig.cache
+E:\code\PJP\project2VS\PLC\PLC\obj\Debug\net8.0\ref\PLC.dll
